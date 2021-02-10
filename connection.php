@@ -1,5 +1,4 @@
 
-
 <?php
 $link =mysqli_connect("localhost", "mynotest_notes", "root","mynotest_onlinenotes");
 if(mysqli_connect_error()){

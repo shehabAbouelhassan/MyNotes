@@ -27,7 +27,7 @@ include('remember.php');
             
               <div class="navbar-header">
               
-                  <a class="navbar-brand">Online Notes</a>
+                  <a class="navbar-brand">Online Notes113</a>
                   <button type="button" class="navbar-toggle" data-target="#navbarCollapse" data-toggle="collapse">
                       <span class="sr-only">Toggle navigation</span>
                       <span class="icon-bar"></span>
@@ -197,7 +197,7 @@ include('remember.php');
     <!-- Footer-->
       <div class="footer">
           <div class="container">
-              <p>Dewe@develpers.com &copy; 2020-<?php $today = date("Y"); echo $today?>.</p>
+              <p>deweDevelopment@gmail.com Copyright &copy; 2015-<?php $today = date("Y"); echo $today?>.</p>
           </div>
       </div>
 
@@ -205,6 +205,6 @@ include('remember.php');
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
-    <script src="index.js"></script>
+    <script src="javascript.js"></script>
   </body>
 </html>
