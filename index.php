@@ -27,7 +27,7 @@ include('remember.php');
             
               <div class="navbar-header">
               
-                  <a class="navbar-brand">Online Notes113</a>
+                  <a class="navbar-brand">Online Notes</a>
                   <button type="button" class="navbar-toggle" data-target="#navbarCollapse" data-toggle="collapse">
                       <span class="sr-only">Toggle navigation</span>
                       <span class="icon-bar"></span>
@@ -197,7 +197,7 @@ include('remember.php');
     <!-- Footer-->
       <div class="footer">
           <div class="container">
-              <p>DevelopmentIsland.com Copyright &copy; 2015-<?php $today = date("Y"); echo $today?>.</p>
+              <p>Dewe@develpers.com &copy; 2020-<?php $today = date("Y"); echo $today?>.</p>
           </div>
       </div>
 
