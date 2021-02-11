@@ -27,7 +27,7 @@ include('remember.php');
             
               <div class="navbar-header">
               
-                  <a class="navbar-brand">Online Notes113</a>
+                  <a class="navbar-brand">Online Notes</a>
                   <button type="button" class="navbar-toggle" data-target="#navbarCollapse" data-toggle="collapse">
                       <span class="sr-only">Toggle navigation</span>
                       <span class="icon-bar"></span>
